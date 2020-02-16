@@ -24,6 +24,7 @@ src/test/data/sandbox/
 .classpath
 .settings
 .project
+.vscode
 
 # Eclipse
 bin
